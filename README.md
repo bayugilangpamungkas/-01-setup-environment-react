@@ -3,7 +3,7 @@
 **=========================** <br>
 **NIM    : 244107027020**  <br>
 **NAMA   : BAYU GILANG PAMUNGKAS**  <br>
-**KELAS  : RPL - 4K RPL**  <br>
+**KELAS  : TI - 4K RPL**  <br>
 **=========================**  <br>
 
 **Tugas - Pengantar Pemrograman Berbasis Framework dan Reactjs** <br>
